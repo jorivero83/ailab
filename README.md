@@ -1,7 +1,7 @@
 # Detection of fake images.
 
 
-## Fake images detection
+## Fake images detection
 
 - Scalable Diffusion Models with Transformers: https://github.com/facebookresearch/DiT
 - FaceSwap: https://github.com/deepfakes/faceswap
